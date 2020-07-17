@@ -1,2 +1,2 @@
 # Dominion-Prayer-Times
-This retrieves information of the current prayer timetable from dominion mosque
+This retrieves information of the current salah timetable from dominion masjid
